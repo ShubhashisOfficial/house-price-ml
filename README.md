@@ -1,1 +1,1 @@
-# house-price-ml
+# house-price-genai
